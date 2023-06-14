@@ -810,6 +810,10 @@ body {
   justify-content: space-between;
 }
 
+.footer .footer__content p {
+  max-width: 200px;
+}
+
 .footer .footer__content .number__phone {
   margin: 14px 0 0 0;
 }
